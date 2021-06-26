@@ -76,7 +76,7 @@ function App() {
             style={{fontSize: 24, margin: '40px 0'}}
             onClick={calcularResultado}
           >
-            Calcular 
+            Calcular
           </button>
         </div>
         <div>
