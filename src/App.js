@@ -53,7 +53,7 @@ function App() {
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Project by Famoso Fernando - Ing. Soft. UTN FRRe <br /><br /><br />
+          Project by Micaela Quintana - Ing. Sw. UTN FRRe <br /><br /><br />
         </p>
         <div>
           <label>Numero A: </label>
